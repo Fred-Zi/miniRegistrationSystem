@@ -1,1 +1,1 @@
-# School-TakeAway
+# miniRegistrationSystem
